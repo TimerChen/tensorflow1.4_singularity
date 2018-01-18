@@ -10,3 +10,5 @@ From: tensorflow/tensorflow:1.4.0-gpu-py3
     apt-get install -y libcupti-dev
     pip3 install --upgrade pip
     pip3 install keras
+    pip3 install ipython
+
