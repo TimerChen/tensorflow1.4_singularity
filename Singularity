@@ -11,5 +11,3 @@ From: tensorflow/tensorflow:1.5.0-gpu-py3
     pip3 install --upgrade pip
     pip3 install keras
     pip3 install ipython
-    pip3 install bootstrapped
-
